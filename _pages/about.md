@@ -2,6 +2,11 @@
 layout: about
 title: about
 permalink: /
+profile:
+  align: right
+  image: sijing-duan.jpg
+  image_circular: false
+
 selected_papers: true
 social: true
 announcements:
