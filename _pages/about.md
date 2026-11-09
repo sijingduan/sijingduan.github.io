@@ -10,7 +10,7 @@ profile:
 selected_papers: false
 social: true
 announcements:
-  enabled: false
+  enabled: true
 latest_posts:
   enabled: false
 ---
