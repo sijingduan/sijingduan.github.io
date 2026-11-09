@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sijingduan.github.io/dsj.github.io/sitemap.xml
+Sitemap: https://sijingduan.github.io/sitemap.xml
