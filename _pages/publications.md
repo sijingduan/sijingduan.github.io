@@ -9,6 +9,8 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+<p><sup>*</sup> Corresponding author</p>
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
