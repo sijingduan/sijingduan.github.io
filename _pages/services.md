@@ -12,5 +12,5 @@ nav_order: 5
 
 ## Reviewer
 
-- IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Networking (TON), IEEE Transactions on Service Computing (IEEE TSC), IEEE Internet of Things Journal, IEEE Transactions on Cognitive Communications and Networking (IEEE TCCN), IEEE Systems Journal, IEEE Transactions on Vehicular Technology (IEEE TVT), etc.
-- ACM Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), KDD, NeurIPS, SIGIR, INFOCOM
+- IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Networking (TON), IEEE Transactions on Service Computing (TSC), IEEE Internet of Things Journal, IEEE Transactions on Cognitive Communications and Networking (TCCN), IEEE Systems Journal, IEEE Transactions on Vehicular Technology (TVT), etc.
+- ACM Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), KDD, NeurIPS, SIGIR, INFOCOM, etc.
