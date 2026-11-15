@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My academic homepage is live.
+I join South China University of Technology.
